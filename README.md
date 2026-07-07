@@ -55,6 +55,3 @@ The system provides:
 - **Diya Ajith**
 - **Gowri R R**
 
----
-
-⭐ If you found this project helpful, don't forget to **star this repository!**
